@@ -32,6 +32,6 @@
 		"product_overview" : "Apache JMeter is an Apache project that can be used as a load testing tool for analyzing and measuring the performance of a variety of services, with a focus on web applications.JMeter can be used as a unit-test tool for JDBC database connections, FTP, LDAP, web services, JMS, HTTP, generic TCP connections and OS-native processes. One can also configure JMeter as a monitor,although this is typically used as a basic monitoring solution rather than advanced monitoring. It can be used for some functional testing as well. Additionally Jmeter supports integration with Selenium, which allows it to run automation scripts alongside performance or load tests",
 		"asset_highlights" : " JMeter is an open source software. This means that it can be downloaded free of cost. It is also a 100% pure Java application. The developer can use its source code, can modify and customize it as per their requirement. They can also contribute their code to make a better JMeter.",
 		"search_keywords" : "DevOps, MLOps",
-		"git_link" : "https://www.jmeter.org/egit",
+		"git_link" : "https://github.com/dptiw/test-product",
 		"industry" : "{Banking}"
 	}
