@@ -16,7 +16,7 @@
 		"geography" : null,
 		"business_type" : null,
 		"asset_format" : "Template",
-		"asset_type" : "Abc",
+		"asset_type" : "Terraform",
 		"dependency" : null,
 		"delivery_method" : ["Download"],
 		"operating_system" : null,
