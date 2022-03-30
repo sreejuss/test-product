@@ -21,7 +21,7 @@
 		"delivery_method" : ["Download"],
 		"operating_system" : null,
 		"cpu_architecture" : null,
-		"deployment" : "Containers",
+		"deployment" : "Container",
 		"hosting_environment" : ["AWS"],
 		"target_entity" : null,
 		"language" : "Angular",
