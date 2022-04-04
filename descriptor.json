@@ -2,6 +2,6 @@
 	"product_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BMW_logo_%28gray%29.svg/2048px-BMW_logo_%28gray%29.svg.png",
 	"product_downloadable": "...url",
 	"demo_video": [["...url1", "desc1"], ["...url2", "desc2"]],
-	"product_support": [["...path1", "desc1"], ["...path2", "desc2"]],
-	"product_usage": [["...path1", "desc1"], ["...path2", "desc2"]]	
+	"product_support": [["...url1", "desc1"], ["...url2", "desc2"]],
+	"product_usage": [["...url1", "desc1"], ["...url2", "desc2"]]	
 }
