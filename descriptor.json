@@ -3,7 +3,9 @@
 	
 	"product_downloadable": "https://userbucket0101.s3.us-east-2.amazonaws.com/d8837f8b-zip-knex.zip",
 	
-	"demo_video": [["...url1", "desc1"], ["...url2", "desc2"]],
+	"demo_video": [
+		["https://userbucket0101.s3.us-east-2.amazonaws.com/088e8a8a-9b2d5a96-mov_bbb.mp4","demo video"]
+	],
 	
 	"product_support": [
 		["https://userbucket0101.s3.us-east-2.amazonaws.com/526f5054-MARKETPLACE%20Mockups%20%286%29.zip", "product support1"],
