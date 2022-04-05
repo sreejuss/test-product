@@ -2,6 +2,6 @@
 	"product_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BMW_logo_%28gray%29.svg/2048px-BMW_logo_%28gray%29.svg.png",
 	"product_downloadable": "https://userbucket0101.s3.us-east-2.amazonaws.com/d8837f8b-zip-knex.zip",
 	"demo_video": [["...url1", "desc1"], ["...url2", "desc2"]],
-	"product_support": [["...url1", "desc1"], ["...url2", "desc2"]],
-	"product_usage": [["...url1", "desc1"], ["...url2", "desc2"]]	
+	"product_support": [["https://userbucket0101.s3.us-east-2.amazonaws.com/b9bdf602-MARKETPLACE%20Mockups%20%281%29.zip", "support doc1"]],
+	"product_usage": [["https://userbucket0101.s3.us-east-2.amazonaws.com/526f5054-MARKETPLACE%20Mockups%20%286%29.zip", "product usage1"]]	
 }
