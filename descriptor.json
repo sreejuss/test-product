@@ -11,6 +11,7 @@
 	],
 	
 	"product_usage": [
-		["https://userbucket0101.s3.us-east-2.amazonaws.com/526f5054-MARKETPLACE%20Mockups%20%286%29.zip", "test"]
+		["https://userbucket0101.s3.us-east-2.amazonaws.com/526f5054-MARKETPLACE%20Mockups%20%286%29.zip", "usage1"],
+		["https://userbucket0101.s3.us-east-2.amazonaws.com/526f5054-MARKETPLACE%20Mockups%20%286%29.zip", "usage2"]
 	]	
 }
