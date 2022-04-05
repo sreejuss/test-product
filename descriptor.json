@@ -1,17 +1,15 @@
 {
 	"product_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BMW_logo_%28gray%29.svg/2048px-BMW_logo_%28gray%29.svg.png",
+	
 	"product_downloadable": "https://userbucket0101.s3.us-east-2.amazonaws.com/d8837f8b-zip-knex.zip",
+	
 	"demo_video": [["...url1", "desc1"], ["...url2", "desc2"]],
+	
 	"product_support": [
-		{
-		  "location":"https://userbucket0101.s3.us-east-2.amazonaws.com/b9bdf602-MARKETPLACE%20Mockups%20%281%29.zip",
-		  "description":"support doc1"
-		},
-		{
-		  "location":"https://userbucket0101.s3.us-east-2.amazonaws.com/05eb4a99-product_downloadable.zip",
-		  "description":"support doc2"
-		}
+		["https://userbucket0101.s3.us-east-2.amazonaws.com/526f5054-MARKETPLACE%20Mockups%20%286%29.zip", "product support1"],
+		["https://userbucket0101.s3.us-east-2.amazonaws.com/05eb4a99-product_downloadable.zip","product support2"]
 	],
+	
 	"product_usage": [
 		["https://userbucket0101.s3.us-east-2.amazonaws.com/526f5054-MARKETPLACE%20Mockups%20%286%29.zip", "product usage1"],
 		["https://userbucket0101.s3.us-east-2.amazonaws.com/05eb4a99-product_downloadable.zip","product usage 2"]
