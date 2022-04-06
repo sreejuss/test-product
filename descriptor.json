@@ -4,7 +4,8 @@
 	"product_downloadable": "https://userbucket0101.s3.us-east-2.amazonaws.com/d8837f8b-zip-knex.zip",
 	
 	"demo_video": [
-		["https://userbucket0101.s3.us-east-2.amazonaws.com/088e8a8a-9b2d5a96-mov_bbb.mp4","demo video"]
+		["https://userbucket0101.s3.us-east-2.amazonaws.com/088e8a8a-9b2d5a96-mov_bbb.mp4","demo video"],
+		["https://userbucket0101.s3.us-east-2.amazonaws.com/088e8a8a-9b2d5a96-mov_bbb.mp4","demo video1"]
 	],
 	
 	"product_support": [
